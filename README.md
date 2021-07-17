@@ -1,1 +1,2 @@
-# Geo123
+# Geologist
+Geologist Project
